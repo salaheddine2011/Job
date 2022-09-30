@@ -7,6 +7,7 @@ import { StatsContainer, Loading, ChartsContainer } from '../../components'
 
   useEffect(()=>{
   showStats()
+  //eslint-disable-next-line
   },[])
   if(isLoading){
     return <Loading center />
