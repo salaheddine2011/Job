@@ -1,3 +1,3 @@
 # Job
-## Run cd client nom install
-## change database connection string in . env(You need to add it)
+## Run "cd client"=> "npm install"
+## change database connection string in .env (You need to add it)
