@@ -8,5 +8,5 @@ Create a file named .env and add the connection String of database, Port Listeni
 - JWT_SECRET=""
 - JWT_LIFETIME=1d
 ## Run Application 
-run npm start
+- npm start
 
